@@ -1,0 +1,19 @@
+{
+  "name": "librovisitas",
+  "version": "1.0.0",
+  "description": "Implementación de un libro de visitas mediante un archivo de texto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tito1996/libroVisitas.git"
+  },
+  "author": "Tito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tito1996/libroVisitas/issues"
+  },
+  "homepage": "https://github.com/Tito1996/libroVisitas#readme"
+}
